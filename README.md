@@ -17,7 +17,7 @@ Capturas
 
 Página principal
 
-<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/50ae3a91-55e7-4541-9e7f-5329d397cec0" />
+<img width="1919" height="889" alt="image" src="Imagenes Readme/inicio" />
 
 Detalle de modelo
 
