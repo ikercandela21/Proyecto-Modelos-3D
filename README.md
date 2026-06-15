@@ -25,7 +25,7 @@ Detalle de modelo
 
 Subida de modelo
 
-<img width="1914" height="885" alt="Subida Archivo" src="imagenesReadme/Subida-Archivos.png" />
+<img width="1914" height="885" alt="Subida Archivo" src="imagenesReadme/subidaArchivos.png" />
 
 Estado del proyecto
 
