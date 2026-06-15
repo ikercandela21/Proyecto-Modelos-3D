@@ -1,4 +1,4 @@
-<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/50ae3a91-55e7-4541-9e7f-5329d397cec0" />Modelados Infinity ♾️
+Modelados Infinity ♾️
 
 Proyecto personal orientado a compartir recursos 3D para creadores y desarrolladores.
 
@@ -14,7 +14,7 @@ Características principales
 ☁️ Integración con la API de Google Drive para almacenamiento y descargas
 Capturas
 Página principal
-<img width="1914" height="885" alt="Inicio" src="https://github.com/user-attachments/assets/96936b29-1a92-4e75-a071-cc2095716945" />
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/50ae3a91-55e7-4541-9e7f-5329d397cec0" />
 Detalle de modelo
 <img width="1914" height="885" alt="Subida Archivo" src="https://github.com/user-attachments/assets/96936b29-1a92-4e75-a071-cc2095716945" />
 
