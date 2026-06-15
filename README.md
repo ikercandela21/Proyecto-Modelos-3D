@@ -21,11 +21,11 @@ Página principal
 
 Detalle de modelo
 
-<img width="1914" height="885" alt="Subida Archivo" src="https://github.com/user-attachments/assets/96936b29-1a92-4e75-a071-cc2095716945" />
+<img width="1914" height="885" alt="Subida Archivo" src="imagenesReadme/modelo.png" />
 
 Subida de modelo
 
-<img width="1914" height="885" alt="Subida Archivo" src="https://github.com/user-attachments/assets/96936b29-1a92-4e75-a071-cc2095716945" />
+<img width="1914" height="885" alt="Subida Archivo" src="imagenesReadme/Subida-Archivos.png" />
 
 Estado del proyecto
 
