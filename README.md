@@ -17,7 +17,7 @@ Capturas
 
 Página principal
 
-<img width="1919" height="889" alt="image" src="Imagenes Readme/inicio" />
+<img width="1919" height="889" alt="image" src="imagenesReadme/inicio.png" />
 
 Detalle de modelo
 
